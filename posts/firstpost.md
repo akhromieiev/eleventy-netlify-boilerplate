@@ -1,7 +1,9 @@
 ---
 title: This is the first example post
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
-date: 2019-01-01T00:00:00.000Z
+metaDescription: This is a sample meta description. If one is not present in
+  your page/post's front matter, the default metadata.desciption will be used
+  instead.
+date: 2021-02-26T00:00:00.000Z
 author: John Appleseed
 summary: Why contemplating our mortality can be a powerful catalyst for change
 tags:
@@ -18,11 +20,10 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-```
+
+
+
+
+![dasd](/static/img/17.2.19-11am-annamaria-no-double-.jpg "asdasdasd")
+
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
