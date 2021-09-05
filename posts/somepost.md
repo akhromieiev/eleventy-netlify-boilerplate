@@ -1,5 +1,5 @@
 ---
-title: SomepOst
+title: SomeValuePost
 date: 2021-09-05T11:31:53.991Z
 author: Roman
 summary: Some summary
