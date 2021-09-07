@@ -9,4 +9,4 @@ eleventyNavigation:
 ---
 # Welcome
 
-This is a FylRoman blog, Here you can read about travel, finance, side-projects and some other hacks.
+This is a [FlyRoman blog](https://flyroman.com/blog/), Here you can read about travel, finance, side-projects, and some other hacks.
