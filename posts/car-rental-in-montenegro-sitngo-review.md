@@ -16,34 +16,31 @@ In early summer we have decided to take a 2-week vacation at the end of summer. 
 
 We haven't heard about this service earlier, but our friends told us about their good experience with this company in the summer of 2019. 
 
-
-
 Some facts about this company (something from the internet, something from us):
 
 * it's founded by Russians in Montenegro
 * it doesn't require a deposit (don't charge your card)
-* the agent can meet you for free at the Tivat airport and for 30 Euro in the Podgorica airport
-* most cars a new (our friends got a new car too in parallell with our trip)
+* the agent can meet you for free at the Tivat airport and for 30€ in the Podgorica airport
+* most cars a new (our friends got a new car too in parallel with our trip)
 * prices are very reasonable in the comparison with other companies, but the price depends on the season and the length of the trip. More days = cheaper price
 * green card, second driver, navigator included for free
 * you can get a 5% discount if mention Sitngo in the social networks
 * smooth communication with support in the WhatsApp 
-* there are no rental signs on the cars. (Maybe it was just in our case)
-* KASKO insurance = 5 Euro per day, OSAGO for free
+* there are no rental signs on the cars. (maybe it was in our case)
+* KASKO insurance = 5€ per day, OSAGO for free
 
 ## **How we booked the car on Sitngo?**
 
-We chose the car on the site:
+We chose the car on the site and did the reservation:
 
 ![Cars gallery on Sitngo](/static/img/sitngo-cars.png "Cars gallery on Sitngo")
 
 ![Car reservation on Sitngo](/static/img/car-booking-sitngo.png "Car reservation on Sitngo")
 
-In an hour the manager reached out by email for confirmation. We were asked about doc credentials, the flight number and the time of departure. Whatsapp was asked as well.
-
+In an hour the manager reached out by email for confirmation. We were asked about doc credentials, the flight number, and the time of departure. Whatsapp was asked as well.
 
 We used the Russian language, but as you see the site has other languages as well (EN, DE, FR).
-The manager told us that we can pay by cash or the card on the place ( +3% taxes in this case )
+The manager told us that we can pay by cash or the card on the place (+3% taxes in this case).
 That's was all about the booking. After this, we waited for our trip.
 
 ## **Meeting in the airport**
@@ -56,7 +53,7 @@ In the Tivat airport, the Russian-speaking guy Dmitry met us with a paper.
 
 ![The agent showed us the documents with car](/static/img/c644329e-edb4-4cd0-961d-7ea5c67e035b.jpg "The agent showed us the documents with car")
 
-He showed us the car, documents, explained some local traffic rules and what gas stations are better to use. The car has car passport, green card, rental agreement. We signed the agreement and started our trip.
+He showed us the car, documents, explained some local traffic rules and what gas stations are better to use. The car has a car passport, green card, rental agreement. We signed the agreement and started our trip.
 
 ![Rental agreement of Sitngo](/static/img/e9cb84e4-0ac1-457a-8b59-55424cc7eea2.jpg "Rental agreement of Sitngo")
 
@@ -66,7 +63,7 @@ On the site, we booked the Toyota Yaris 1.4 (with 2017 as an issue date), but it
 
 We booked the car for 12 days and it costs us 589€ and 5€ for car washing ( we give it in the end at the airport). In this price was included the insurance with 100€ franchise. It means in case of any damage you need to pay 100€ and all other expenses will be covered by insurance.
 
-The price was very reasonable for the end of the summer, probably an average car was starting from 60 euro/day. Here it was a little bit under 50 euro.
+The price was very reasonable for the end of the summer, probably an average car was starting from 60€/day. Here it was a little bit under 50€.
 
 After this, we paid for the parking in the airport and started our trip.
 
@@ -76,13 +73,13 @@ The car was very good. We drove 1300 km including the mountains. We crossed the 
 
 ![Driving the Kotor serpentine](/static/img/73a516ad-9630-407c-8b44-5b1a3d30e576.jpg "Driving the Kotor serpentine")
 
-One con was a car play. On the site, we included the navigator to our car and it was a free option. At the airport, the agent told us that car has the car play, but actually, there is not. I reached the manager on WhatsApp and he apologized for this case due to the lack of available navigators and recommended using the maps.me application. Probably the manager could inform us earlier about this issue.
+One minus was a car play. On the site, we included the navigator to our car and it was a free option. At the airport, the agent told us that car has the car play, but actually, there is not. I reached the manager on WhatsApp and he apologized for this case due to the lack of available navigators and recommended using the maps.me application. Probably the manager could inform us earlier about this issue.
 
 The experience of driving the Yaris was enjoyable due to the car size. The Yaris was an ergonomic solution for comfortable driving in mountains. You don't need a jeep in Montenegro, probably it will create only problems with parking and the tank will always be hungry due to the angles.
 
 ![Toyota Yaris in the mountains](/static/img/85623194-92b0-433e-ad0a-3f2c3dc3f27a.jpg "Toyota Yaris in the mountains")
 
-Our average consumption was 6L per 100 km. The octane was 98. The price for gas was different in each region of Montenegro, but the average was 1.3 euro -1.45 euro per liter.
+Our average consumption was 6L per 100 km. The octane was 98. The price for gas was different in each region of Montenegro, but the average was 1.35€-1.45€ per liter.
 
 ## **Return**
 
@@ -94,4 +91,4 @@ We have left the 5€ in the car because we didn't wash it. On the territory of 
 
 ## Is it worth renting a car in Sitngo? 
 
-From our experience, yes. It's a local Montenegrin company, so the prices were lower in comparison to other rentals. We chose the car by the "no pre-payment" principle. A lot of other companies asking about some $XXX-$XXXX deposit and in Montenegro it's easy to make a scratches on car and lost this deposit.
+From our experience, yes. It's a local Montenegrin company, so the prices were lower in comparison to other rentals. We chose the car by the "no pre-payment" principle. A lot of other companies asking about some $XXX-$XXXX deposit and in Montenegro it's easy to make a scratch on a car and lost this deposit. We liked the friendly communication using Whatsapp and clear instructions.
