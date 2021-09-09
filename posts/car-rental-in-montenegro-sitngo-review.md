@@ -10,11 +10,11 @@ tags:
   - rent
   - review
 ---
-In early summer we have decided to take a 2-week vacation at the end of summer. We decided to visit Montenegro and rent a car for the whole vacation. In this post, I will tell you about our experience of car renting using the Sitngo service.
+In early summer we decided to take a 2-week vacation at the end of summer. We decided to visit Montenegro and rent a car for the whole vacation. In this post, I will tell you about our experience of car renting using the Sitngo service.
 
 ![The keychain from the car with Sitngo logo](/static/img/1a6b56b0-23e0-4c8c-af8b-932898ca4e26.jpg "The keychain from the car with Sitngo logo")
 
-We haven't heard about this service earlier, but our friends told us about their good experience with this company in the summer of 2019. 
+We didn't hear about this service earlier, but our friends told us about their good experiences with this company in the summer of 2019. 
 
 Some facts about this company (something from the internet, something from us):
 
@@ -53,7 +53,7 @@ In the Tivat airport, the Russian-speaking guy Dmitry met us with a paper.
 
 ![The agent showed us the documents with car](/static/img/c644329e-edb4-4cd0-961d-7ea5c67e035b.jpg "The agent showed us the documents with car")
 
-He showed us the car, documents, explained some local traffic rules and what gas stations are better to use. The car has a car passport, green card, rental agreement. We signed the agreement and started our trip.
+He showed us the car, documents, explained some local traffic rules and what gas stations are better to use. The car had a car passport, green card, rental agreement. We signed the agreement and started our trip.
 
 ![Rental agreement of Sitngo](/static/img/e9cb84e4-0ac1-457a-8b59-55424cc7eea2.jpg "Rental agreement of Sitngo")
 
@@ -73,7 +73,7 @@ The car was very good. We drove 1300 km including the mountains. We crossed the 
 
 ![Driving the Kotor serpentine](/static/img/73a516ad-9630-407c-8b44-5b1a3d30e576.jpg "Driving the Kotor serpentine")
 
-One minus was a car play. On the site, we included the navigator to our car and it was a free option. At the airport, the agent told us that car has the car play, but actually, there is not. I reached the manager on WhatsApp and he apologized for this case due to the lack of available navigators and recommended using the maps.me application. Probably the manager could inform us earlier about this issue.
+One minus was a car play. On the site, we included the navigator to our car and it was a free option. At the airport, the agent told us that car had the car play, but actually, there is not. I reached the manager on WhatsApp and he apologized for this case due to the lack of available navigators and recommended using the maps.me application. Probably the manager could inform us earlier about this issue.
 
 The experience of driving the Yaris was enjoyable due to the car size. The Yaris was an ergonomic solution for comfortable driving in mountains. You don't need a jeep in Montenegro, probably it will create only problems with parking and the tank will always be hungry due to the angles.
 
@@ -83,11 +83,11 @@ Our average consumption was 6L per 100 km. The octane was 98. The price for gas 
 
 ## **Return**
 
-In the beginning, we mentioned we want to return the car to the airport before our home flight. 2 days earlier I wrote to Sitngo on WhatsApp that we have an early-morning flight and want to return the car at 6:50 am-7 am. The manager confirmed this.
+In the beginning, we mentioned we want to return the car to the airport before our home flight. 2 days earlier I wrote to Sitngo on WhatsApp that we had an early-morning flight and want to return the car at 6:50 am-7 am. The manager confirmed this.
 
 We drove the car to the Tivat airport to the initial parking.
 
-We have left the 5€ in the car because we didn't wash it. On the territory of parking, we have meet the agent and he was checking other cars as well. He checked our car exterior, the tank, pack of docs and asked for overall feedback. Also, he asked to left feedback in a few days somewhere online. The return process was just 2 minutes.
+We left the 5€ in the car because we didn't wash it. On the territory of parking, we met the agent and he was checking other cars as well. He checked our car exterior, the tank, pack of docs and asked for overall feedback. Also, he asked to left feedback in a few days somewhere online. The return process was just 2 minutes.
 
 ## Is it worth renting a car in Sitngo? 
 
