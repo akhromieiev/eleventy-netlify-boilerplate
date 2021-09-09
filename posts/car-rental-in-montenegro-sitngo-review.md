@@ -5,7 +5,7 @@ author: Roman
 summary: In this post, I will tell you about our car rental experience with
   Sitngo. We will tell the prices and overall feedback.
 tags:
-  - Montenegro
+  - montenegro
   - car
   - rent
   - review
