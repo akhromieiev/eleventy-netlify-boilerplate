@@ -6,6 +6,9 @@ summary: In this post, I will tell you how to get the Hawaii Beach (Sveti Nikola
   Island) from Budva, Slovenska Plaza in 15 minutes.
 tags:
   - montenegro
+  - budva
+  - hawaii
+  - nikola
 ---
 Here is a step-by-step instruction about how to get the Hawaii Beach (Sveti Nikola Island) from Budva.
 
