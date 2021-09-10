@@ -14,7 +14,7 @@ In early summer we decided to take a 2-week vacation at the end of summer. We de
 
 ![The keychain from the car with Sitngo logo](/static/img/1a6b56b0-23e0-4c8c-af8b-932898ca4e26.jpg "The keychain from the car with Sitngo logo")
 
-We didn't hear about this service earlier, but our friends told us about their good experiences with this company in the summer of 2019. 
+We didn't hear about this service earlier, but our friends told us about their good experiences with this company in the summer of 2019. Also, we read all feedbacks [on Google Maps](https://g.co/kgs/HT16J1) and it was very useful.
 
 Some facts about this company (something from the internet, something from us):
 
