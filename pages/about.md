@@ -9,4 +9,4 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-Hello! My name is Roman and I'm glad to see you here. Here you can find some useful posts to help you travel smarter, some tips and tricks.
+Hello! My name is Roman and I'm glad to see you here. Here you can find some useful posts to help you travel smarter, freelance and finance things, some tips and tricks.
