@@ -14,16 +14,16 @@ This post is step-by-step instruction about how to get from Juan-les-Pins city t
 
 1. You need to find a "La Régence" bus station in Juan-Les-Pins.
 
-![Regence Bus Station in Juan-Les-Pins](./regence-bus-station.png "Regence Bus Station in Juan-Les-Pins")
+![Regence Bus Station in Juan-Les-Pins](/static/img/how-to-get-from-juan-les-pins-to-nice-airport-by-bus/regence-bus-station.png "Regence Bus Station in Juan-Les-Pins")
 
 2. Check the schedule and plan the time for your trip:
 
-![Schedule in Regence Bus Station for bus 82](./schedule_82_bus_juan_les_pins.png "Schedule in Regence Bus Station for bus 82")
+![Schedule in Regence Bus Station for bus 82](/static/img/how-to-get-from-juan-les-pins-to-nice-airport-by-bus/schedule_82_bus_juan_les_pins.png "Schedule in Regence Bus Station for bus 82")
 
 The first bus goes to Nice in 6:40AM and the last in 8:01PM.
 
 3. One-way ticket for bus 82 from Juan-Les-Pins costs 9.4 euro per person:
 
-![Ticket from Juan-Les-Pins to Nice airport](./ticket_82_bus.png "Ticket from Juan-Les-Pins to Nice airport")
+![Ticket from Juan-Les-Pins to Nice airport](/static/img/how-to-get-from-juan-les-pins-to-nice-airport-by-bus/ticket_82_bus.png "Ticket from Juan-Les-Pins to Nice airport")
 
 
