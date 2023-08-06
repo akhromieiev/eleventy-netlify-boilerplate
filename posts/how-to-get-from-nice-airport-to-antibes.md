@@ -1,5 +1,5 @@
 ---
-title: `How to get from Nice Airport to Antibes`
+title: How to get from Nice Airport to Antibes
 date: 2023-08-06T21:00:00.679Z
 author: Roman
 summary: In this post, I will tell you details about multiple options to get Antibes from Nice Aeroport
@@ -16,7 +16,7 @@ In this comprehensive guide, I will tell you about transportation options about 
 
 ## Bus 82 (formerly 250)
 
-You can get to Antibes from Nice Aeroport Terminal 2 using bus 82 (formerly 250). 
+You can get to Antibes from Nice Aeroport Terminal 2 using **bus 82 (formerly 250)**. 
 
 ![Bus 82 from and to Nice aeroport](/static/img/how-to-from-nice-airport-to-antibes/nice_antibes_bus_82.png "Bus 82 from and to Nice aeroport")
 
@@ -29,8 +29,7 @@ In Antibes it stops in the following stations:
 - Pont du Lys
 - Les Eucalyptus
 
-**Fare**: **9.4€** per person
-**Time**: 30-60 minutes
+**Fare**: **9.4€** for 30-60 minutes (depends on station in Antibes)
 
 ## Bus 620
 
@@ -40,8 +39,7 @@ The bus 620 from Nice to Cannes is the cheapest option to get Antibes from Nice 
 
 This is the cheapest option because it stops on every corner, but if you are on a budget and have only one bag it can. Air-condition was bad in this bus.
 
-**Fare**: **2.1€** per person
-**Time**: 60 minutes
+**Fare**: **2.1€** for 60 minutes
 
 # By Train
 
@@ -64,12 +62,20 @@ Uber and Bolt work in French Rivera so that you can book a trip in your app. You
 
 Prices for transfer start from 100€ for this destination and it depends on car size and class.
 
-**Fare**: 45€-100€+ per person
-**Time**: 30-60 minutes
+**Fare**: **45-100€+** for 30-60 minutes
 
-## Conclusion
+# Conclusion
 
-In conclusion, for travelers seeking the best option to journey from Nice Airport to Antibes, the train service stands out as the ideal choice. With a manageable 15-20 minute walk from Terminal 2 to Nice Saint-Augustin train station, the train offers a relatively quick and efficient commute to Antibes.
+For travelers seeking the best option to journey from Nice Airport to Antibes, the train service stands out as the ideal choice. With a manageable 15-20 minute walk from Terminal 2 to Nice Saint-Augustin train station, the train offers a relatively quick and efficient commute to Antibes. 
+
+## Comparison table
+|               | Price         | Time                    |
+|---------------|---------------|-------------------------|
+| Train         | 4.2-6.4 euro  | 20 min walk + 13-18 min |
+| Bus 82        | 9.4 euro      | 30-60 min               |
+| Bus 620       | 2.1 euro      | 60+ min                 |
+| Taxi/transfer | 45-100+ euro  | 30-60+min               |
+
 
 *P.S. i didn't tell about an option to get **Nice Saint-Augustin** or **Aeroport Promenade** using a tram, because it costs **10€**. This is not budget option, but can save a time in your trip.*
 
