@@ -54,7 +54,7 @@ You must walk from Terminal 2 to **Nice Saint-Augustin** train station. The dist
 - TER (a few stops, **4.20€**, 18 min, a lot of trains)
 - inOui (non-stop, **6.4€**, 13 min, 2-3 trains per day)
 
-You can buy tickets via Omio or SNCF services.
+You can buy tickets via Omio or [SNCF](https://www.sncf-connect.com/) services.
 
 # By Taxi or Transfer
 
