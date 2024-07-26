@@ -1,7 +1,7 @@
 ---
 title: How to get Hawaii Beach (Sveti Nikola Island) from Budva
 date: 2021-09-10T09:01:55.054Z
-last_modified_at: 2023-08-03T12:00:00
+last_modified_at: 2024-07-26T12:00:00
 author: Roman
 summary: In this post, I will tell you how to get the Hawaii Beach (Sveti Nikola
   Island) from Budva, Slovenska Plaza in 15 minutes.
@@ -19,11 +19,11 @@ Here is a step-by-step instruction about how to get the Hawaii Beach (Sveti Niko
 
 This place is[ located in Slovenska Plaza](https://goo.gl/maps/XtwdAErLAd14pcN49).
 
-2. You need to buy tickets. It costs 4-6 Euro per person for 15 minute trip:
+2. You need to buy tickets. It costs 6 Euro per person for 15 minute trip:
 
 ![Buying the tickets to Hawaii beach](/static/img/3ec4ddfb-f55f-4dfb-840a-b3651540127b.jpg "Buying the tickets to Hawaii beach")
 
-P.S. the price goes up every year and in 2023 it was 5-6 euro.
+P.S. the price goes up every year and in 2024 it was 6 euro.
 
 Keep your tickets before onboarding:
 
