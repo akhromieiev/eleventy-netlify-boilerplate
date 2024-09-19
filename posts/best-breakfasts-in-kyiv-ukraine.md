@@ -64,7 +64,7 @@ tags:
 * Outstanding deserts
 * Various breakfasts
 * On weekends it is possible to stay in the queue
-* Ordered: roast beef with pepper, cake, and cappuccino (unfortunately without prices ☹️ )
+* Ordered: sandwich with roast beef and pepper, cake, and cappuccino (unfortunately without detailed prices here ☹️ )
 * Total bill: **919 UAH or 22.15 USD**
 * **[Site](https://app.namelaka.ua/)**
 
