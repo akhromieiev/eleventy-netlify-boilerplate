@@ -9,4 +9,15 @@ eleventyNavigation:
   key: About
   order: 4
 ---
-Hello! My name is Roman and I'm glad to see you here. Here you can find some useful posts to help you travel smarter, freelance and finance things, some tips and tricks.
+Hello! My name is Roman and I'm glad to see you here. 
+
+![](/static/img/avatar.jpg)
+
+\
+This is my personal blog. Here i want to write about experiences of my life. Mostly you will find information about:
+
+* trips, vacations, how to travel smarter
+* finance things, investments, passive income, tips, bank cards
+* reflections about internet projects and running online businesses
+
+Feel free to[ contact me](https://flyroman.com/contact/) if you have any questions.
